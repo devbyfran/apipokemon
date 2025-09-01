@@ -67,3 +67,4 @@ public class Pokemon {
         this.peso = peso;
     }
 }
+
